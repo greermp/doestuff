@@ -1,4 +1,10 @@
-Name,Min,Max
-THAAD,10,200
-PATRIOT,5,20
-IFPC,100,200
+Name,Min,Max,Type
+systemA, 10,  200,active
+systemB, 5,   20,active
+systemC, 100, 200,passive
+systemD, 5,   10,passive
+systemE, 5,   50,passive
+systemF, 10,   40,passive
+systemG, 15,   60,passive
+systemH, 20,   80,airborne
+systemI, 30,   100,airborne
