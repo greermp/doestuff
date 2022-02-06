@@ -1,0 +1,11 @@
+expReportNum,expLineItemNum,origin,destination,airServiceClass
+760001,1,Los Angeles,Charlottesville,Economy
+760002,1,Los Angeles,Chicago,Business
+760003,1,Chicago,Philadelphia,Business
+760004,1,Chicago,Philadelphia,Economy
+760005,1,Atlanta,San Diego,Economy Plus
+760006,1,"Washington, DC",Denver,Economy
+760007,1,"Washington, DC",New York,Business
+760008,1,Los Angeles,Raleigh,Business
+760009,1,Chicago,San Diego,Economy
+760010,1,Los Angeles,Seattle,Economy
