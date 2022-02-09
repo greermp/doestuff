@@ -1,0 +1,4 @@
+Name,Min,Max,Type
+system1,10,200,active
+system2,5,20,active
+system3,100,200,passive

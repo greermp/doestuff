@@ -17,7 +17,7 @@ class ActiveSys(object):
 input = pd.read_csv('input_max.csv')
 
 # DOE options
-myFF = pyDOE2.fullfact([2,2,2,2,2,2,2,2,2,2])
+myFF = pyDOE2.fullfact([2,2,2,2,2,2,2,2,2,2,2])
 # myCCD= pyDOE2.ccdesign(10, center=[0,1],alpha='o', face='ccf')
 myCCD = pyDOE2.ccdesign(len(input), face='ccf')
 myBBD = pyDOE2.bbdesign(len(input), center=1)

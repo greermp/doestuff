@@ -1,10 +1,11 @@
 Name,Min,Max,Type
-systemA, 10,  200,active
-systemB, 5,   20,active
-systemC, 100, 200,passive
-systemD, 5,   10,passive
-systemE, 5,   50,passive
-systemF, 10,   40,passive
-systemG, 15,   60,passive
-systemH, 20,   80,airborne
-systemI, 30,   100,airborne
+system1,10,200,active
+system2,5,20,active
+system3,100,200,passive
+system4,5,10,passive
+system5,5,50,passive
+system6,10,40,passive
+system7,15,60,passive
+system8,20,80,airborne
+system9,30,100,airborne
+system10,30,100,airborne
